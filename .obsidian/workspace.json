@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f1a7aa1c89c88d6",
+        "id": "b09a58cbc0dd4974",
         "type": "tabs",
         "children": [
           {
-            "id": "3155212b53d20d91",
+            "id": "3cdeaa8cda614dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏳️‍🌈 Natural language processing.md",
+                "file": "Сatbost работа с текстовыми фичами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏳️‍🌈 Natural language processing"
+              "title": "Сatbost работа с текстовыми фичами"
             }
           }
         ]
@@ -168,35 +168,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3155212b53d20d91",
+  "active": "3cdeaa8cda614dad",
   "lastOpenFiles": [
-    "🏳️‍🌈 Natural language processing.md",
-    "Prompt-tuning, P-tuning, Prefix-tuning, P-tuning v2.md",
-    "Мультимодальные модели text + image обучение.md",
-    "доделать.md",
-    "Инициализация весов LLM.md",
-    "Lora адаптеры.md",
-    "Reinforcement learning on human feedback.md",
-    "Gradient checkpointing и back propogation.md",
-    "Mixture of experts (MoE).md",
-    "Pretrain LLM стратегии.md",
-    "Welcome.md",
-    "стохастического градиентного спуска.md",
-    "Смысл lr-decay и warmup.md",
-    "Паралельные вычисления в LLM.md",
-    "Смысл adamW.md",
     "☦️ classic ML.md",
-    "Градиентный спуск.md",
-    "Стратегии обучения токенизаторов.md",
+    "🏳️‍🌈 Natural language processing.md",
+    "2D_Convolution_Animation.gif",
+    "🧮 Линейная алгебра.md",
+    "🤯 Deep learning.md",
+    "🤓 Математическая статистика.md",
+    "📈 Метрики.md",
+    "👍 Recommender systems.md",
+    "BM25 (ELASTICSARCH).md",
+    "Сatbost работа с текстовыми фичами.md",
+    "Information Value для оценки фич.md",
+    "Gini для оценки фич.md",
+    "Деревья решений.md",
+    "Pasted image 20250811230233.png",
+    "Архитектура и обучение эмбеддиег моделей.md",
+    "доделать.md",
+    "Архитектура GPT.md",
+    "Архитектура BERT предобучение дообучение.md",
+    "Архитектура трансформер.md",
+    "Как можно численно представить текстовые данные?.md",
+    "Welcome.md",
+    "Задача Optical Character Recognition (OCR).md",
+    "Задача Image Super-Resolution (SR), Denoising, Inpainting, Style Transfer.md",
+    "👀 Computer vision.md",
     "🐍 Python.md",
-    "Новые подходы в Llama-3.md",
-    "Фунции активации LLM.md",
-    "Представления чисел и алгоритмы квантизации.md",
-    "Новые подходы в QWEN, QwQ.md",
-    "Vision Transformer.md",
-    "Мультимодальные модели  text + image инференс.md",
+    "Оперция свёртка.md",
+    "2D_Convolution_Animation 1.gif",
+    "Pasted image 20250724181650.png",
+    "Задача генерации.md",
+    "Single",
+    "Function",
     "Pasted image 20250721135209.png",
-    "👀 Computer vision and signal processing.md",
     "Pasted image 20250721135150.png",
     "Pasted image 20250720161234.png",
     "Pasted image 20250720155645.png"

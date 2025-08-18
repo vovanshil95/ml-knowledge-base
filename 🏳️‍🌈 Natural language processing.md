@@ -62,32 +62,32 @@
 
 #### **Инференс LLM**
 
-Fake reasoning problem
+[[Fake reasoning problem]]
 
-Function/tool calling
+[[Function/tool calling]]
 
-ReAct фреймворк
+[[ReAct фреймворк]]
 
-MCP (Model Context Protocol)
+[[MCP (Model Context Protocol)]]
 
-A2A (Agent to Agent) протокол
+[[A2A (Agent to Agent) протокол]]
 
-RAG (Retrieval-Augmented Generation) идея
+[[RAG (Retrieval-Augmented Generation) идея]]
 
-CAG (Cache Augmented Generation)
+[[CAG (Cache Augmented Generation)]]
 
-Хранение KV кэша в памяти
+[[Хранение KV кэша в памяти]]
 
-Бибилитотеки для быстрого инференса
+[[Бибилитотеки для быстрого инференса]]
 
 #### **Интеллектуальный поиск**
 
-RAG - SOTA подход
+[[RAG - SOTA подход]]
 
-HNSW (FAISS)
+[[HNSW для векторного поиска]]
 
-BM25 (ELASTICSARCH)
+[[BM25 (ELASTICSARCH)]]
 
-Векторные базы данных
+[[Метрики качества поиска и ранжирования]]
 
-Метрики качества поиска и ранжирования
+[[Векторные базы данных]]

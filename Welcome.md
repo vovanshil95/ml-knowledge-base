@@ -8,7 +8,7 @@
 
 - **[[🤯 Deep learning]]**
 
-- **[[👀 Computer vision and signal processing]]**
+- **[[👀 Computer vision]]**
 
 - **[[🏳️‍🌈 Natural language processing]]**
   
