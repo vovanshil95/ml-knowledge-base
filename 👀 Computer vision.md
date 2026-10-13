@@ -42,7 +42,7 @@ MobileNet
 
 [[Vision Transformer]]
 
-Swin Transformer
+Swin [[Архитектура трансформер|Transformer]]
 
 DETR
 
