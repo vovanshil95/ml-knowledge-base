@@ -1,23 +1,25 @@
 # ML Knowledge Base
 
-База знаний по машинному обучению, глубокому обучению и смежным областям. Коллекция структурированных заметок и материалов для изучения и справки.
+База знаний по машинному обучению, глубокому обучению, NLP и Computer Vision. Заметки в Obsidian.
 
-## 📚 Содержание
+## 📚 Разделы
 
-### Основные разделы
+- **[🧮 Линейная алгебра](🧮%20Линейная%20алгебра.md)**
+- **[🤓 Математическая статистика](🤓%20Математическая%20статистика.md)**
+- **[☦️ classic ML](☦️%20classic%20ML.md)**
+- **[📈 Метрики](📈%20Метрики.md)**
+- **[🤯 Deep learning](🤯%20Deep%20learning.md)**
+- **[👀 Computer vision](👀%20Computer%20vision.md)**
+- **[🏳️‍🌈 Natural language processing](🏳️‍🌈%20Natural%20language%20processing.md)**
+- **[👍 Recommender systems](👍%20Recommender%20systems.md)**
+- **[🐍 Python](🐍%20Python.md)**
+- **[💽 SQL](💽%20SQL.md)**
+- **[📊 Анализ данных](📊%20Анализ%20данных.md)**
+- **[👩‍🦯 практика](👩‍🦯%20практика.md)**
+- **[💪 Опыт](💪%20Опыт.md)**
+- **[🎓 Посмотреть, изучить](🎓%20Посмотреть,%20изучить.md)**
 
-- **[🧮 Линейная алгебра](🧮%20Линейная%20алгебра.md)** - Основы линейной алгебры для ML
-- **[🤓 Математическая статистика](🤓%20Математическая%20статистика.md)** - Статистические методы и концепции
-- **[☦️ Classic ML](☦️%20classic%20ML.md)** - Классические алгоритмы машинного обучения
-- **[📈 Метрики](📈%20Метрики.md)** - Метрики оценки моделей
-- **[🤯 Deep learning](🤯%20Deep%20learning.md)** - Глубокое обучение
-- **[👀 Computer vision](👀%20Computer%20vision.md)** - Компьютерное зрение
-- **[🏳️‍🌈 Natural language processing](🏳️‍🌈%20Natural%20language%20processing.md)** - Обработка естественного языка
-- **[👍 Recommender systems](👍%20Recommender%20systems.md)** - Рекомендательные системы
-- **[🐍 Python](🐍%20Python.md)** - Python для ML
-- **[💽 SQL](💽%20SQL.md)** - SQL для работы с данными
-
-## 🔍 Темы по категориям
+## 🗂 Темы
 
 ### Архитектуры и модели
 
@@ -31,20 +33,10 @@
 - [U-Net](U-Net.md)
 - [R-CNN](R-CNN.md)
 - [YOLO](YOLO.md)
-
-### Задачи компьютерного зрения
-
-- [Задача Object Detection](Задача%20Object%20Detection.md)
-- [Задача сегментации](Задача%20сегментации.md)
-- [Задача генерации](Задача%20генерации.md)
-- [Задача Image Super-Resolution (SR), Denoising, Inpainting, Style Transfer](Задача%20Image%20Super-Resolution%20(SR),%20Denoising,%20Inpainting,%20Style%20Transfer.md)
-- [Задача Optical Character Recognition (OCR)](Задача%20Optical%20Character%20Recognition%20(OCR).md)
-- [Multi-Object Tracking (SOT & MOT)](Single/Multi-Object%20Tracking%20(SOT%20&%20MOT).md)
+- [Mixture of experts (MoE)](Mixture%20of%20experts%20(MoE).md)
 
 ### NLP и LLM
 
-- [RAG (Retrieval-Augmented Generation) идея](RAG%20(Retrieval-Augmented%20Generation)%20идея.md)
-- [RAG - SOTA подход](RAG%20-%20SOTA%20подход.md)
 - [Отличие BERT от GPT](Отличие%20BERT%20от%20GPT.md)
 - [Pretrain LLM стратегии](Pretrain%20LLM%20стратегии.md)
 - [Новые подходы в Llama-3](Новые%20подходы%20в%20Llama-3.md)
@@ -52,6 +44,18 @@
 - [Как можно численно представить текстовые данные?](Как%20можно%20численно%20представить%20текстовые%20данные?.md)
 - [Оценка перевода или дополнения текста](Оценка%20перевода%20или%20дополнения%20текста.md)
 - [Стратегии обучения токенизаторов](Стратегии%20обучения%20токенизаторов.md)
+- [Фунции активации LLM](Фунции%20активации%20LLM.md)
+
+### RAG, агенты и протоколы
+
+- [RAG (Retrieval-Augmented Generation) идея](RAG%20(Retrieval-Augmented%20Generation)%20идея.md)
+- [RAG - SOTA подход](RAG%20-%20SOTA%20подход.md)
+- [CAG (Cache Augmented Generation)](CAG%20(Cache%20Augmented%20Generation).md)
+- [A2A (Agent to Agent) протокол](A2A%20(Agent%20to%20Agent)%20протокол.md)
+- [MCP (Model Context Protocol)](MCP%20(Model%20Context%20Protocol).md)
+- [ReAct фреймворк](ReAct%20фреймворк.md)
+- [Function/tool calling](Function/tool%20calling.md)
+- [Fake reasoning problem](Fake%20reasoning%20problem.md)
 
 ### Оптимизация и обучение
 
@@ -65,27 +69,16 @@
 - [Prompt-tuning, P-tuning, Prefix-tuning, P-tuning v2](Prompt-tuning,%20P-tuning,%20Prefix-tuning,%20P-tuning%20v2.md)
 - [Reinforcement learning on human feedback](Reinforcement%20learning%20on%20human%20feedback.md)
 
-### Механизмы внимания
+### Внимание и вычисления
 
 - [Механизмы внимания и их оптимизации](Механизмы%20внимания%20и%20их%20оптимизации.md)
 - [Механизмы positional encoding](Механизмы%20positional%20encoding.md)
-
-### Операции и вычисления
-
 - [Оперция свёртка](Оперция%20свёртка.md)
 - [Паралельные вычисления в LLM](Паралельные%20вычисления%20в%20LLM.md)
 - [Хранение KV кэша в памяти](Хранение%20KV%20кэша%20в%20памяти.md)
 - [Представления чисел и алгоритмы квантизации](Представления%20чисел%20и%20алгоритмы%20квантизации.md)
 
-### Функции и активации
-
-- [Фунции активации LLM](Фунции%20активации%20LLM.md)
-
-### Специальные архитектуры
-
-- [Mixture of experts (MoE)](Mixture%20of%20experts%20(MoE).md)
-
-### Векторный поиск и базы данных
+### Поиск и векторные базы
 
 - [Векторные базы данных](Векторные%20базы%20данных.md)
 - [HNSW для векторного поиска](HNSW%20для%20векторного%20поиска.md)
@@ -93,63 +86,35 @@
 - [TF-IDF](TF-IDF.md)
 - [Метрики качества поиска и ранжирования](Метрики%20качества%20поиска%20и%20ранжирования.md)
 
-### Оценка фич
-
-- [Gini для оценки фич](Gini%20для%20оценки%20фич.md)
-- [Information Value для оценки фич](Information%20Value%20для%20оценки%20фич.md)
-
-### Классическое ML
+### Классическое ML и фичи
 
 - [Деревья решений](Деревья%20решений.md)
 - [Сatbost работа с текстовыми фичами](Сatbost%20работа%20с%20текстовыми%20фичами.md)
+- [Gini для оценки фич](Gini%20для%20оценки%20фич.md)
+- [Information Value для оценки фич](Information%20Value%20для%20оценки%20фич.md)
+
+### Computer Vision — задачи
+
+- [Задача Object Detection](Задача%20Object%20Detection.md)
+- [Задача сегментации](Задача%20сегментации.md)
+- [Задача генерации](Задача%20генерации.md)
+- [Задача Image Super-Resolution (SR), Denoising, Inpainting, Style Transfer](Задача%20Image%20Super-Resolution%20(SR),%20Denoising,%20Inpainting,%20Style%20Transfer.md)
+- [Задача Optical Character Recognition (OCR)](Задача%20Optical%20Character%20Recognition%20(OCR).md)
+- [Single/Multi-Object Tracking (SOT & MOT)](Single/Multi-Object%20Tracking%20(SOT%20&%20MOT).md)
 
 ### Мультимодальные модели
 
-- [Мультимодальные модели text + image обучение](Мультимодальные%20модели%20text%20+%20image%20обучение.md)
 - [Мультимодальные модели  text + image инференс](Мультимодальные%20модели%20%20text%20+%20image%20инференс.md)
+- [Мультимодальные модели text + image обучение](Мультимодальные%20модели%20text%20+%20image%20обучение.md)
 
-### Инференс и оптимизация
+### Инференс
 
 - [Бибилитотеки для быстрого инференса](Бибилитотеки%20для%20быстрого%20инференса.md)
-- [CAG (Cache Augmented Generation)](CAG%20(Cache%20Augmented%20Generation).md)
 
-### Протоколы и фреймворки
+## 🚧 В работе
 
-- [A2A (Agent to Agent) протокол](A2A%20(Agent%20to%20Agent)%20протокол.md)
-- [MCP (Model Context Protocol)](MCP%20(Model%20Context%20Protocol).md)
-- [ReAct фреймворк](ReAct%20фреймворк.md)
-- [Function/tool calling](Function/tool%20calling.md)
-
-### Проблемы и исследования
-
-- [Fake reasoning problem](Fake%20reasoning%20problem.md)
-
-## 📝 Структура проекта
-
-Проект организован в виде коллекции Markdown-файлов, каждый из которых посвящён конкретной теме. Файлы могут содержать:
-
-- Теоретические объяснения
-- Практические примеры
-- Ссылки на исследования
-- Визуализации (изображения и GIF-анимации)
-
-## 🚀 Использование
-
-Этот репозиторий можно использовать как:
-
-- **Справочник** - быстрый поиск информации по конкретным темам
-- **Учебное пособие** - структурированное изучение ML/DL концепций
-- **База знаний** - централизованное хранение заметок и материалов
+- [доделать](доделать.md)
 
 ## 📄 Лицензия
 
-Проект распространяется под лицензией MIT. См. [LICENSE.md](LICENSE.md) для подробностей.
-
-## 🤝 Вклад
-
-Если вы хотите дополнить базу знаний или исправить ошибки, создайте issue или pull request.
-
----
-
-**Примечание**: Большинство материалов написаны на русском языке. Некоторые файлы могут быть в процессе доработки (см. [доделать.md](доделать.md)).
-
+MIT — см. [LICENSE.md](LICENSE.md).
